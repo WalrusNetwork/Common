@@ -1,4 +1,4 @@
-package network.stratus.common;
+package network.walrus.common;
 
 /**
  * Something which has a name and display name which can be different for specific viewers.

@@ -1,8 +1,8 @@
-package network.stratus.common.text;
+package network.walrus.common.text;
 
 import java.util.Locale;
 import net.md_5.bungee.api.chat.BaseComponent;
-import network.stratus.common.CommandSender;
+import network.walrus.common.CommandSender;
 
 /**
  * A component which can be rendered for a specific {@link CommandSender}.

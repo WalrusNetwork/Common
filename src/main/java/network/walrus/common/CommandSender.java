@@ -1,6 +1,6 @@
-package network.stratus.common;
+package network.walrus.common;
 
-import network.stratus.common.text.PersonalizedComponent;
+import network.walrus.common.text.PersonalizedComponent;
 
 public interface CommandSender extends Localized, Named {
 

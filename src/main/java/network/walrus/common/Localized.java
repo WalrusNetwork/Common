@@ -1,4 +1,4 @@
-package network.stratus.common;
+package network.walrus.common;
 
 import java.util.Locale;
 

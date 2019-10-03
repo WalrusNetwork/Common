@@ -4,25 +4,25 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>network.stratus</groupId>
+  <groupId>network.walrus</groupId>
   <artifactId>common</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <repositories>
     <repository>
-      <id>stratus-public</id>
-      <url>https://repo.stratus.network/repository/maven-public/</url>
+      <id>walrus-public</id>
+      <url>https://maven-public.walrus.network</url>
     </repository>
   </repositories>
 
   <distributionManagement>
     <snapshotRepository>
-      <id>stratus-public</id>
-      <url>https://repo.stratus.network/repository/maven-public/</url>
+      <id>walrus-public</id>
+      <url>https://maven-public.walrus.network</url>
     </snapshotRepository>
     <repository>
-      <id>stratus-public</id>
-      <url>https://repo.stratus.network/repository/maven-public/</url>
+      <id>walrus-public</id>
+      <url>https://maven-public.walrus.network</url>
     </repository>
   </distributionManagement>
 
