@@ -13,6 +13,10 @@
       <id>walrus-public</id>
       <url>https://maven-public.walrus.network</url>
     </repository>
+    <repository>
+      <id>bungeecord-repo</id>
+      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+    </repository>
   </repositories>
 
   <distributionManagement>
