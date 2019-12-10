@@ -2,7 +2,7 @@ package network.walrus.common;
 
 import network.walrus.common.text.PersonalizedComponent;
 
-public interface CommandSender extends Localized, Named {
+public interface CommandSender extends Localized, Named, Permissible {
 
     /**
      * Sends a translatable component to this command source using its {@link #getLocale() locale}.
