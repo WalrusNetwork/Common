@@ -9,24 +9,16 @@
   <version>1.0-SNAPSHOT</version>
 
   <repositories>
-    <repository>
-      <id>walrus-public</id>
-      <url>https://maven.walrus.gg/repository/walrus-public/</url>
-    </repository>
-    <repository>
-      <id>bungeecord-repo</id>
-      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-    </repository>
+		<repository>
+			<id>spigot-public</id>
+			<url>https://hub.spigotmc.org/nexus/content/repositories/public</url>
+		</repository>
   </repositories>
 
   <distributionManagement>
-    <snapshotRepository>
-      <id>walrus-public</id>
-      <url>https://maven.walrus.gg/repository/walrus-public/</url>
-    </snapshotRepository>
     <repository>
-      <id>walrus-public</id>
-      <url>https://maven.walrus.gg/repository/walrus-public/</url>
+      <id>github</id>
+      <url>https://maven.pkg.github.com/WalrusNetwork/Tusk</url>
     </repository>
   </distributionManagement>
 
